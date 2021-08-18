@@ -1,0 +1,10 @@
+{
+  "id": "com.crunchyroll.lg",
+  "version": "0.0.1",
+  "vendor": "My Company",
+  "type": "web",
+  "main": "index.html",
+  "title": "Crunchyroll LG",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
